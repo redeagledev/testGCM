@@ -1,0 +1,5 @@
+This is sample log info number 3. Not to include in repo.
+Line 222
+Line 333
+This is a log but has a .txt extension.
+//end.
